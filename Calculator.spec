@@ -1,5 +1,5 @@
 # -*- mode: python ; coding: utf-8 -*-
-
+#для сборки проекта в exe-файл
 
 a = Analysis(
     ['src\\gui.py'],
