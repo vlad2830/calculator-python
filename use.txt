@@ -1,0 +1,1 @@
+pyinstaller --name Calculator --windowed --add-data "src;src" --onefile src/gui.py
